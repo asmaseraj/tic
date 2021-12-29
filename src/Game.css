@@ -1,0 +1,7 @@
+.game{
+    /*padding-top:300px ;*/
+    align-items: center;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+}
